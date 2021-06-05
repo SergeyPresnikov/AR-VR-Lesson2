@@ -1,0 +1,18 @@
+C:\sources\gb\charp#2\sandbox\Lesson1\Asteroids\bin\Debug\Asteroids.exe.config
+C:\sources\gb\charp#2\sandbox\Lesson1\Asteroids\bin\Debug\Asteroids.exe
+C:\sources\gb\charp#2\sandbox\Lesson1\Asteroids\bin\Debug\Asteroids.pdb
+C:\sources\gb\charp#2\sandbox\Lesson1\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+C:\sources\gb\charp#2\sandbox\Lesson1\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+C:\sources\gb\charp#2\sandbox\Lesson1\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+C:\sources\gb\charp#2\sandbox\Lesson1\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\sources\gb\charp#2\sandbox\Lesson1\Asteroids\obj\Debug\Asteroids.exe
+C:\sources\gb\charp#2\sandbox\Lesson1\Asteroids\obj\Debug\Asteroids.pdb
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 1\Lesson\Asteroids\bin\Debug\Asteroids.exe.config
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 1\Lesson\Asteroids\bin\Debug\Asteroids.exe
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 1\Lesson\Asteroids\bin\Debug\Asteroids.pdb
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 1\Lesson\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 1\Lesson\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 1\Lesson\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 1\Lesson\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 1\Lesson\Asteroids\obj\Debug\Asteroids.exe
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 1\Lesson\Asteroids\obj\Debug\Asteroids.pdb
