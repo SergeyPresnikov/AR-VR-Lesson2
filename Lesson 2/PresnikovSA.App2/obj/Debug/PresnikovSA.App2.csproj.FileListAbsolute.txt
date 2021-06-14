@@ -1,0 +1,14 @@
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 2\Lesson 1.2\PresnikovSA.App2\bin\Debug\PresnikovSA.App2.exe.config
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 2\Lesson 1.2\PresnikovSA.App2\bin\Debug\PresnikovSA.App2.exe
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 2\Lesson 1.2\PresnikovSA.App2\bin\Debug\PresnikovSA.App2.pdb
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 2\Lesson 1.2\PresnikovSA.App2\obj\Debug\PresnikovSA.App2.csprojAssemblyReference.cache
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 2\Lesson 1.2\PresnikovSA.App2\obj\Debug\PresnikovSA.App2.csproj.CoreCompileInputs.cache
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 2\Lesson 1.2\PresnikovSA.App2\obj\Debug\PresnikovSA.App2.exe
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 2\Lesson 1.2\PresnikovSA.App2\obj\Debug\PresnikovSA.App2.pdb
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 2\Lesson 2\PresnikovSA.App2\bin\Debug\PresnikovSA.App2.exe.config
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 2\Lesson 2\PresnikovSA.App2\bin\Debug\PresnikovSA.App2.exe
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 2\Lesson 2\PresnikovSA.App2\bin\Debug\PresnikovSA.App2.pdb
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 2\Lesson 2\PresnikovSA.App2\obj\Debug\PresnikovSA.App2.csprojAssemblyReference.cache
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 2\Lesson 2\PresnikovSA.App2\obj\Debug\PresnikovSA.App2.csproj.CoreCompileInputs.cache
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 2\Lesson 2\PresnikovSA.App2\obj\Debug\PresnikovSA.App2.exe
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 2\Lesson 2\PresnikovSA.App2\obj\Debug\PresnikovSA.App2.pdb
