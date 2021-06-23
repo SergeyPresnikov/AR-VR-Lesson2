@@ -1,6 +1,0 @@
-H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\Lesson 5\Lesson 5\MyCompony.Employee\bin\Debug\MyCompony.Employee.dll
-H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\Lesson 5\Lesson 5\MyCompony.Employee\bin\Debug\MyCompony.Employee.pdb
-H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\Lesson 5\Lesson 5\MyCompony.Employee\obj\Debug\MyCompony.Employee.csproj.CoreCompileInputs.cache
-H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\Lesson 5\Lesson 5\MyCompony.Employee\obj\Debug\MyCompony.Employee.dll
-H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\Lesson 5\Lesson 5\MyCompony.Employee\obj\Debug\MyCompony.Employee.pdb
-H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\Lesson 5\Lesson 5\MyCompony.Employee\obj\Debug\MyCompony.Employee.csprojAssemblyReference.cache
