@@ -1,0 +1,29 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyCompany"
+        xmlns:MyCompanyControls="clr-namespace:MyCompanyControls;assembly=MyCompanyControls" x:Class="MyCompany.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListView x:Name="MyCompanyListView" ItemsSource="{Binding EmployeeList}" SelectedItem="{Binding SelectedEmployee}" 
+                  Margin="10,10,433,0" SelectionMode="Single" SelectionChanged="MyCompanyListView_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="auto" Header="Фамилия" DisplayMemberBinding="{Binding LastName}"/>
+                    <GridViewColumn Width="auto" Header="Имя" DisplayMemberBinding="{Binding FirstName}"/>
+                    <GridViewColumn Width="auto" Header="Отчество" DisplayMemberBinding="{Binding SecondName}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <MyCompanyControls:EmployeeControl x:Name="employeeControl" Height="213" Margin="0,10,28,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="400"/>
+        <Button x:Name="btnAdd" Content="Добавить" HorizontalAlignment="Left" Margin="364,223,0,0" VerticalAlignment="Top" Width="100" Height="30" Click="btnAdd_Click"/>
+        <Button x:Name="btnRemove" Content="Удалить" HorizontalAlignment="Left" Margin="469,223,0,0" VerticalAlignment="Top" Width="100" Height="30" Click="btnRemove_Click"/>
+        <Button x:Name="btnApply" Content="Применить" HorizontalAlignment="Left" Margin="664,223,0,0" VerticalAlignment="Top" Width="100" Height="30" Click="btnApply_Click"/>
+    </Grid>
+
+
+
+</Window>
