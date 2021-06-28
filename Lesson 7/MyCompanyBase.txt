@@ -1,0 +1,51 @@
+USE [MyCompanyPSA]
+GO
+
+/****** Object:  Table [dbo].[DepartmentCategory]    Script Date: 28.06.2021 14:00:42 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[DepartmentCategory](
+	[CategoryID] [int] NOT NULL,
+	[Description] [nvarchar](50) NULL,
+ CONSTRAINT [PK_DepartmentCategory] PRIMARY KEY CLUSTERED 
+(
+	[CategoryID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+USE [MyCompanyPSA]
+GO
+
+
+
+/****** Object:  Table [dbo].[Staff]    Script Date: 28.06.2021 14:03:33 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Staff](
+	[LastName] [nvarchar](255) NOT NULL,
+	[FirstName] [nvarchar](255) NOT NULL,
+	[SecondName] [nvarchar](255) NOT NULL,
+	[CategoryID] [int] NOT NULL,
+ CONSTRAINT [PK_Staff] PRIMARY KEY CLUSTERED 
+(
+	[LastName] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[Staff]  WITH CHECK ADD  CONSTRAINT [FK_Staff_DepartmentCategory] FOREIGN KEY([CategoryID])
+REFERENCES [dbo].[DepartmentCategory] ([CategoryID])
+GO
+
+ALTER TABLE [dbo].[Staff] CHECK CONSTRAINT [FK_Staff_DepartmentCategory]
+GO
+

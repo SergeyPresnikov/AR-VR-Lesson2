@@ -1,0 +1,22 @@
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\Lesson 5\Lesson 5\MyCompony.Employee\bin\Debug\MyCompony.Employee.dll
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\Lesson 5\Lesson 5\MyCompony.Employee\bin\Debug\MyCompony.Employee.pdb
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\Lesson 5\Lesson 5\MyCompony.Employee\obj\Debug\MyCompony.Employee.csproj.CoreCompileInputs.cache
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\Lesson 5\Lesson 5\MyCompony.Employee\obj\Debug\MyCompony.Employee.dll
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\Lesson 5\Lesson 5\MyCompony.Employee\obj\Debug\MyCompony.Employee.pdb
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\Lesson 5\MyCompony.Employee\bin\Debug\MyCompony.Employee.dll
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\Lesson 5\MyCompony.Employee\bin\Debug\MyCompony.Employee.pdb
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\Lesson 5\MyCompony.Employee\obj\Debug\MyCompony.Employee.csproj.CoreCompileInputs.cache
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\Lesson 5\MyCompony.Employee\obj\Debug\MyCompony.Employee.dll
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\Lesson 5\MyCompony.Employee\obj\Debug\MyCompony.Employee.pdb
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\AR-VR-Lesson2-Lesson-5\AR-VR-Lesson2-Lesson-5\Lesson 5\MyCompony.Employee\bin\Debug\MyCompony.Employee.dll
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\AR-VR-Lesson2-Lesson-5\AR-VR-Lesson2-Lesson-5\Lesson 5\MyCompony.Employee\bin\Debug\MyCompony.Employee.pdb
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\AR-VR-Lesson2-Lesson-5\AR-VR-Lesson2-Lesson-5\Lesson 5\MyCompony.Employee\obj\Debug\MyCompony.Employee.csprojAssemblyReference.cache
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\AR-VR-Lesson2-Lesson-5\AR-VR-Lesson2-Lesson-5\Lesson 5\MyCompony.Employee\obj\Debug\MyCompony.Employee.csproj.CoreCompileInputs.cache
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\AR-VR-Lesson2-Lesson-5\AR-VR-Lesson2-Lesson-5\Lesson 5\MyCompony.Employee\obj\Debug\MyCompony.Employee.dll
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\AR-VR-Lesson2-Lesson-5\AR-VR-Lesson2-Lesson-5\Lesson 5\MyCompony.Employee\obj\Debug\MyCompony.Employee.pdb
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 5\Lesson 5\MyCompony.Employee\obj\Debug\MyCompony.Employee.csprojAssemblyReference.cache
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 7\AR-VR-Lesson2-Lesson-6\Lesson 7\MyCompony.Employee\bin\Debug\MyCompony.Employee.dll
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 7\AR-VR-Lesson2-Lesson-6\Lesson 7\MyCompony.Employee\bin\Debug\MyCompony.Employee.pdb
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 7\AR-VR-Lesson2-Lesson-6\Lesson 7\MyCompony.Employee\obj\Debug\MyCompony.Employee.csproj.CoreCompileInputs.cache
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 7\AR-VR-Lesson2-Lesson-6\Lesson 7\MyCompony.Employee\obj\Debug\MyCompony.Employee.dll
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 7\AR-VR-Lesson2-Lesson-6\Lesson 7\MyCompony.Employee\obj\Debug\MyCompony.Employee.pdb
