@@ -1,0 +1,13 @@
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 8\AR-VR-Lesson2-Lesson-7\Lesson 7\MyCompany.Communication\bin\Debug\MyCompany.Communication.dll.config
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 8\AR-VR-Lesson2-Lesson-7\Lesson 7\MyCompany.Communication\bin\Debug\MyCompany.Communication.dll
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 8\AR-VR-Lesson2-Lesson-7\Lesson 7\MyCompany.Communication\bin\Debug\MyCompany.Communication.pdb
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 8\AR-VR-Lesson2-Lesson-7\Lesson 7\MyCompany.Communication\obj\Debug\MyCompany.Communication.csproj.CoreCompileInputs.cache
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 8\AR-VR-Lesson2-Lesson-7\Lesson 7\MyCompany.Communication\obj\Debug\MyCompany.Communication.dll
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 8\AR-VR-Lesson2-Lesson-7\Lesson 7\MyCompany.Communication\obj\Debug\MyCompany.Communication.pdb
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 8\AR-VR-Lesson2-Lesson-7\Lesson 8\MyCompany.Communication\bin\Debug\MyCompany.Communication.dll.config
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 8\AR-VR-Lesson2-Lesson-7\Lesson 8\MyCompany.Communication\bin\Debug\MyCompany.Communication.dll
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 8\AR-VR-Lesson2-Lesson-7\Lesson 8\MyCompany.Communication\bin\Debug\MyCompany.Communication.pdb
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 8\AR-VR-Lesson2-Lesson-7\Lesson 8\MyCompany.Communication\obj\Debug\MyCompany.Communication.csprojAssemblyReference.cache
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 8\AR-VR-Lesson2-Lesson-7\Lesson 8\MyCompany.Communication\obj\Debug\MyCompany.Communication.csproj.CoreCompileInputs.cache
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 8\AR-VR-Lesson2-Lesson-7\Lesson 8\MyCompany.Communication\obj\Debug\MyCompany.Communication.dll
+H:\GeekBrains AR VR Разработка\2 Lesson C#\Lesson 8\AR-VR-Lesson2-Lesson-7\Lesson 8\MyCompany.Communication\obj\Debug\MyCompany.Communication.pdb
